@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there! I'm Sebastiano!
+
+<img src="https://raw.githubusercontent.com/SebastianGaud/SebastianGaud/main/Immagine%202022-04-20%20115551.png" alt="banner that says I'm Sebastiano Gaudeano has a little silly photo of me and says I love to be a developer!">
 
 <!--
 **SebastianGaud/SebastianGaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,6 +8,8 @@
 
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/18565928/sebastiangaud)
 
+<br>
+<br>
 
 I'm a software developer who's really passionate about coding! I born as a backend developer and then with time and experience I opened to learn also frontedn technologies! I mainly work in C# and .net core/6. For the frontend part my absolute favorite SPA framework is Angular! Altough at work I mainly develop in ReactJs! Recently I discovere flutter and I'm totally falling in love with it! I also taught it to a class in a profesional course this year!
 

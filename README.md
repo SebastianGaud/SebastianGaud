@@ -21,7 +21,7 @@ One of my favorite place to hangout is [Hashnode](https://hashnode.com/) AMAZING
 
 - 🔭 I’m currently working on nothign! But I would like to start and help in some open source projects!
 - 🌱 I'm currently trying to understand how I can use docker as a developer!
-- 📫 How to reach me: you can reach me on [my linkeding profile!](https://www.linkedin.com/in/sebastiano-gaudeano/)! (Atm is only in Italian but I'm working on it!) 
+- 📫 How to reach me: you can reach me on [my linkedin profile!](https://www.linkedin.com/in/sebastiano-gaudeano/)! (Atm is only in Italian but I'm working on it!) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My absolute favorite Tv show is Doctor Who! and my favorite anime is Fairy Tail! Also Guess what? I love to code!
 

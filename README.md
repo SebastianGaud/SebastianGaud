@@ -16,7 +16,7 @@ I'm a software developer who's really passionate about coding! I born as a backe
 
 Altough at work I stick to some technology that are bound to the company DNA I love to explore new and exciting things this lead me to discover continuously some new technologies, frameworks or solutions related to this world! 
 
-One of my favorite place to hangour is [Hashnode](https://hashnode.com/) AMAZING!! Developer blog platform! I'm planning on write something there! Maybe you'll find me there in the future!
+One of my favorite place to hangout is [Hashnode](https://hashnode.com/) AMAZING!! Developer blog platform! I'm planning on write something there! Maybe you'll find me there in the future!
 
 
 - 🔭 I’m currently working on nothign! But I would like to start and help in some open source projects!
